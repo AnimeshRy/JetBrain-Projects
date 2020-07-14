@@ -5,6 +5,7 @@
 - These are some of the projects that I did from JetBrains Academy [Python Dev HyperSkill](https://hyperskill.org/curriculum)
   - Coffee Machine
   - Simple Chat Bot
+  - Hangman
 
 ##### Note
 
