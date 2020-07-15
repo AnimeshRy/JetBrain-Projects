@@ -6,6 +6,7 @@
   - Coffee Machine
   - Simple Chat Bot
   - Hangman
+  - Rock Paper Scissors
 
 ##### Note
 
