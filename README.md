@@ -7,6 +7,7 @@
   - Simple Chat Bot
   - Hangman
   - Rock Paper Scissors
+  - TicTacToe
 
 ##### Note
 
