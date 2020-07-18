@@ -8,6 +8,7 @@
   - Hangman
   - Rock Paper Scissors
   - TicTacToe
+  - Zookeeper
 
 ##### Note
 
