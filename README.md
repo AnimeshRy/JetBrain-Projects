@@ -9,6 +9,7 @@
   - Rock Paper Scissors
   - TicTacToe
   - Zookeeper
+  - Credit Calculator
 
 ##### Note
 
