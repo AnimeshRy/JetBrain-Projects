@@ -10,7 +10,7 @@
   - TicTacToe
   - Zookeeper
   - Credit Calculator
-
+  - Todo list
 ##### Note
 
 These solutions are made for documenting my progress and I insist that you don't straight away copy these and use them just as a reference if necessary.
